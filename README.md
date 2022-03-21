@@ -135,14 +135,14 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 <a href="https://github.com/Ramdaniofficial"><img src="https://github.com/Ramdaniofficial.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
 [Ramdani Official](https://github.com/Ramdaniofficial)  | [Nurutomo](https://github.com/Nurutomo)
-Developer Ramdani bot v16 | Constributor |
+Developer Ramdani bot v16 | Mastah |
 <a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
 [Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
-Constributor | For Help |
+Mastah 
 <a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
 [Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
-For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/Ramdani Official.png?size=100)](http://github.com/Ramdani Official) 
-[Adiwajshing](https://github.com/adiwajshing) | [Ramdani Official](https://Ramdani Official.github.io)
-Owner of Baileys | Owner of Api Ramdani Botz |
+Mastah | Owner Chikabot |
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/fajar.png?size=100)](http://github.com/fajar) 
+[Adiwajshing](https://github.com/adiwajshing) | [Fajar](https://github.com/fajar)
+Owner of Baileys | Mastah |
 
